@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<nodes>
+  <node>
+    <Nid>2384</Nid>
+    <Endereco>/image/band.jpg</Endereco>
+    <Author-uid>80</Author-uid>
+    <fid>8134</fid>
+    <Nome>band.jpg</Nome>
+  </node>
+  <node>
+    <Nid>2383</Nid>
+    <Endereco>/image/brasil.jpg</Endereco>
+    <Author-uid>80</Author-uid>
+    <fid>8132</fid>
+    <Nome>brasil.jpg</Nome>
+  </node>
+</nodes>
